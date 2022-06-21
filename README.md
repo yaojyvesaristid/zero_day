@@ -1,1 +1,1 @@
-This repo is for vagrant
+Hello Ubuntu directly in terminal desktop
